@@ -254,6 +254,9 @@ body, html{
     text-transform: uppercase;
     margin-bottom: 30px;
 }
+.header h1{
+    text-align: center;
+}
 .text{
     font-family:proxima-nova-light;
     font-size: 19px;

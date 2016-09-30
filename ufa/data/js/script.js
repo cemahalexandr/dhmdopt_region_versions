@@ -1,5 +1,5 @@
 $(function(){
-    $(".leftbar li:nth-child(1) a").click(function(){
+  /*  $(".leftbar li:nth-child(1) a").click(function(){
         $(".dresses").show();
         $(".path h4:nth-child(3) a").text("Женские платья оптом в Уфе");
         $(".header h2").text("КУПИТЬ ПЛАТЬЯ ОПТОМ В УФЕ");
@@ -64,8 +64,8 @@ $(function(){
         $(".header h2").text("КУПИТЬ ОПТОВУЮ ОДЕЖДУ В УФЕ");
         $(".path h4:nth-child(3) a").text("Женские одежда оптом в Уфе");
         $(".coat, .dresses, .blouse, .skirt, .trousers, .jackets, .cardigans, .cloak, .overalls, .costums, .costums").hide();
-    });
-    
+    });   */
+       
     $("#drop, .dropdowns").hover(function(){
         $(".dropdowns").show();
     },function(){
@@ -96,7 +96,7 @@ $(function(){
         $("#dm4").hide();
     });
     
-    $("#dr1, #dr2, #dr3, #dr4, .leftbar a ").click(function(event){
+    $("#dr1, #dr2, #dr3, #dr4 ").click(function(event){
         return false;
     });
     
