@@ -209,7 +209,7 @@ body, html{
 	color:#000;
 }
 .path span{
-	dispay:block;
+	display:block;
 	float:left;
 }
 #cth{
@@ -403,9 +403,6 @@ body, html{
     display: table-cell;
     padding-top: 16px;
     padding-right: 20px;
-}
-.costums{
-    display: none;
 }
 footer{
     width:90%;
