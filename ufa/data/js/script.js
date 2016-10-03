@@ -96,8 +96,8 @@ $(function(){
         $("#dm4").hide();
     });
     
-    $("#dr1, #dr2, #dr3, #dr4 ").click(function(event){
-        return false;
+    $("li#dr2>a  , li#dr3>a, li#dr4>a ").click(function(e){
+        e.preventDefault();
     });
     
 })
