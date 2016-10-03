@@ -212,7 +212,8 @@ body, html{
 	dispay:block;
 	float:left;
 }
-.pull-left span{
+#cth{
+    color:black;
     font-size: 19px;
     font-family: academy-regular;
     text-transform: uppercase;
@@ -223,8 +224,9 @@ body, html{
     border-radius:25px;
     letter-spacing: 7px;
     cursor: pointer;
+    text-decoration: none;
 }
-.pull-left span:hover{
+#cth:hover{
     background-color: black;
     color:white;
 }
@@ -403,33 +405,6 @@ body, html{
     padding-right: 20px;
 }
 .costums{
-    display: none;
-}
-.blouse{
-    display: none;
-}
-.skirt{
-    display: none;
-}
-.trousers{
-    display: none;
-}
-.jackets{
-    display: none;
-}
-.cardigans{
-    display: none;
-}
-.cloak{
-    display: none;
-}
-.overalls{
-    display: none;
-}
-.coat{
-    display: none;
-}
-.clothes{
     display: none;
 }
 footer{
