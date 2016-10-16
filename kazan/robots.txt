@@ -1,6 +1,6 @@
 User-Agent: *
-Sitemap: http://ufa.dhmdopt.ru/sitemap.xml
+Sitemap: http://kazan.dhmdopt.ru/sitemap.xml
 
 User-Agent: Yandex
-Host: ufa.dhmdopt.ru
-Sitemap: http://ufa.dhmdopt.ru/sitemap.xml
+Host: kazan.dhmdopt.ru
+Sitemap: http://kazan.dhmdopt.ru/sitemap.xml

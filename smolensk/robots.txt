@@ -1,0 +1,6 @@
+User-Agent: *
+Sitemap: http://smolensk.dhmdopt.ru/sitemap.xml
+
+User-Agent: Yandex
+Host: smolensk.dhmdopt.ru
+Sitemap: http://smolensk.dhmdopt.ru/sitemap.xml

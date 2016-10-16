@@ -4,19 +4,9 @@
 
    <url>
 
-      <loc>http://ufa.dhmdopt.ru/</loc>
+      <loc>http://dhmdopt.ru/odezgda_opt/</loc>
 
-      <lastmod>2016-09-29</lastmod>
-
-      <priority>1</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://ufa.dhmdopt.ru/platya/</loc>
-
-      <lastmod>2016-09-29</lastmod>
+      <lastmod>2016-10-12</lastmod>
 
       <priority>1</priority>
 
@@ -24,9 +14,19 @@
 
    <url>
 
-      <loc>http://ufa.dhmdopt.ru/kostyumy/</loc>
+      <loc>http://dhmdopt.ru/odezgda_opt/platya/</loc>
 
-      <lastmod>2016-09-29</lastmod>
+      <lastmod>2016-10-12</lastmod>
+
+      <priority>1</priority>
+
+   </url>
+
+   <url>
+
+      <loc>http://dhmdopt.ru/odezgda_opt/kostyumy/</loc>
+
+      <lastmod>2016-10-12</lastmod>
 
       <priority>1</priority>
 
@@ -34,19 +34,9 @@
 
       <url>
 
-      <loc>http://ufa.dhmdopt.ru/bluzki/</loc>
+      <loc>http://dhmdopt.ru/odezgda_opt/bluzki/</loc>
 
-      <lastmod>2016-09-29</lastmod>
-
-      <priority>1</priority>
-
-   </url>
-
-      <url>
-
-      <loc>http://ufa.dhmdopt.ru/yubki/</loc>
-
-      <lastmod>2016-09-29</lastmod>
+      <lastmod>2016-10-12</lastmod>
 
       <priority>1</priority>
 
@@ -54,9 +44,19 @@
 
       <url>
 
-      <loc>http://ufa.dhmdopt.ru/bryuki/</loc>
+      <loc>http://dhmdopt.ru/odezgda_opt/yubki/</loc>
 
-      <lastmod>2016-09-29</lastmod>
+      <lastmod>2016-10-12</lastmod>
+
+      <priority>1</priority>
+
+   </url>
+
+      <url>
+
+      <loc>http://dhmdopt.ru/odezgda_opt/bryuki/</loc>
+
+      <lastmod>2016-10-12</lastmod>
 
       <priority>1</priority>
 
@@ -64,19 +64,9 @@
 
          <url>
 
-      <loc>http://ufa.dhmdopt.ru/zhakety/</loc>
+      <loc>http://dhmdopt.ru/odezgda_opt/zhakety/</loc>
 
-      <lastmod>2016-09-29</lastmod>
-
-      <priority>1</priority>
-
-   </url>
-
-         <url>
-
-      <loc>http://ufa.dhmdopt.ru/kombinezony/</loc>
-
-      <lastmod>2016-09-29</lastmod>
+      <lastmod>2016-10-12</lastmod>
 
       <priority>1</priority>
 
@@ -84,19 +74,9 @@
 
          <url>
 
-      <loc>http://ufa.dhmdopt.ru/kardigany/</loc>
+      <loc>http://dhmdopt.ru/odezgda_opt/kombinezony/</loc>
 
-      <lastmod>2016-09-29</lastmod>
-
-      <priority>1</priority>
-
-   </url>
-
-         <url>
-
-      <loc>http://ufa.dhmdopt.ru/plashchi/</loc>
-
-      <lastmod>2016-09-29</lastmod>
+      <lastmod>2016-10-12</lastmod>
 
       <priority>1</priority>
 
@@ -104,9 +84,29 @@
 
          <url>
 
-      <loc>http://ufa.dhmdopt.ru/palto/</loc>
+      <loc>http://dhmdopt.ru/odezgda_opt/kardigany/</loc>
 
-      <lastmod>2016-09-29</lastmod>
+      <lastmod>2016-10-12</lastmod>
+
+      <priority>1</priority>
+
+   </url>
+
+         <url>
+
+      <loc>http://dhmdopt.ru/odezgda_opt/plashchi/</loc>
+
+      <lastmod>2016-10-12</lastmod>
+
+      <priority>1</priority>
+
+   </url>
+
+         <url>
+
+      <loc>http://dhmdopt.ru/odezgda_opt/palto/</loc>
+
+      <lastmod>2016-10-12</lastmod>
 
       <priority>1</priority>
 

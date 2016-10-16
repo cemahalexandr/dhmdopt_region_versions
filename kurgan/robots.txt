@@ -1,0 +1,6 @@
+User-Agent: *
+Sitemap: http://kurgan.dhmdopt.ru/sitemap.xml
+
+User-Agent: Yandex
+Host: kurgan.dhmdopt.ru
+Sitemap: http://kurgan.dhmdopt.ru/sitemap.xml

@@ -1,0 +1,6 @@
+User-Agent: *
+Sitemap: http://chelyabinsk.dhmdopt.ru/sitemap.xml
+
+User-Agent: Yandex
+Host: chelyabinsk.dhmdopt.ru
+Sitemap: http://chelyabinsk.dhmdopt.ru/sitemap.xml

@@ -1,6 +1,6 @@
 User-Agent: *
-Sitemap: http://ufa.dhmdopt.ru/sitemap.xml
+Sitemap: http://novosibirsk.dhmdopt.ru/sitemap.xml
 
 User-Agent: Yandex
-Host: ufa.dhmdopt.ru
-Sitemap: http://ufa.dhmdopt.ru/sitemap.xml
+Host: novosibirsk.dhmdopt.ru
+Sitemap: http://novosibirsk.dhmdopt.ru/sitemap.xml

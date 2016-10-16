@@ -1,6 +1,6 @@
 User-Agent: *
-Sitemap: http://ufa.dhmdopt.ru/sitemap.xml
+Sitemap: http://novokuznetsk.dhmdopt.ru/sitemap.xml
 
 User-Agent: Yandex
-Host: ufa.dhmdopt.ru
-Sitemap: http://ufa.dhmdopt.ru/sitemap.xml
+Host: novokuznetsk.dhmdopt.ru
+Sitemap: http://novokuznetsk.dhmdopt.ru/sitemap.xml
