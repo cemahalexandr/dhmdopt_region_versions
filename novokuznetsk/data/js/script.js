@@ -1,68 +1,68 @@
 $(function(){
   /*  $(".leftbar li:nth-child(1) a").click(function(){
         $(".dresses").show();
-        $(".path h4:nth-child(3) a").text("Женские платья оптом в Уфе");
-        $(".header h2").text("КУПИТЬ ПЛАТЬЯ ОПТОМ В УФЕ");
+        $(".path h4:nth-child(3) a").text("Женские платья оптом в Новокузнецке");
+        $(".header h2").text("КУПИТЬ ПЛАТЬЯ ОПТОМ В НОВОКУЗНЕЦКЕ");
         $(".costums, .blouse, .skirt, .trousers, .jackets, .cardigans, .cloak, .overalls, .coat, .clothes").hide();
     });
     $(".leftbar li:nth-child(2) a").click(function(){
         $(".costums").show();
-        $(".path h4:nth-child(3) a").text("Женские костюмы оптом в Уфе");
-        $(".header h2").text("КУПИТЬ КОСТЮМЫ ОПТОМ В УФЕ");
+        $(".path h4:nth-child(3) a").text("Женские костюмы оптом в Новокузнецке");
+        $(".header h2").text("КУПИТЬ КОСТЮМЫ ОПТОМ В НОВОКУЗНЕЦКЕ");
         $(".dresses, .blouse, .skirt, .trousers, .jackets, .cardigans, .cloak, .overalls, .coat, .clothes").hide();
     });
      $(".leftbar li:nth-child(3) a").click(function(){
         $(".blouse").show();
-        $(".path h4:nth-child(3) a").text("Женские блузки оптом в Уфе");
-        $(".header h2").text("КУПИТЬ БЛУЗКИ ОПТОМ В УФЕ");
+        $(".path h4:nth-child(3) a").text("Женские блузки оптом в Новокузнецке");
+        $(".header h2").text("КУПИТЬ БЛУЗКИ ОПТОМ В НОВОКУЗНЕЦКЕ");
         $(".costums, .dresses, .skirt, .trousers, .jackets, .cardigans, .cloak, .overalls, .coat, .clothes").hide();
     });
      $(".leftbar li:nth-child(4) a").click(function(){
         $(".skirt").show();
-        $(".path h4:nth-child(3) a").text("Женские юбки оптом в Уфе");
-        $(".header h2").text("КУПИТЬ ЮБКИ ОПТОМ В УФЕ");
+        $(".path h4:nth-child(3) a").text("Женские юбки оптом в Новокузнецке");
+        $(".header h2").text("КУПИТЬ ЮБКИ ОПТОМ В НОВОКУЗНЕЦКЕ");
         $(".costums, .blouse, .dresses, .trousers, .jackets, .cardigans, .cloak, .overalls, .coat, .clothes").hide();
     });
      $(".leftbar li:nth-child(5) a").click(function(){
         $(".trousers").show();
-        $(".path h4:nth-child(3) a").text("Женские брюки оптом в Уфе");
-        $(".header h2").text("КУПИТЬ БРЮКИ ОПТОМ В УФЕ");
+        $(".path h4:nth-child(3) a").text("Женские брюки оптом в Новокузнецке");
+        $(".header h2").text("КУПИТЬ БРЮКИ ОПТОМ В НОВОКУЗНЕЦКЕ");
         $(".costums, .blouse, .skirt, .dresses, .jackets, .cardigans, .cloak, .overalls, .coat, .clothes").hide();
     });
      $(".leftbar li:nth-child(6) a").click(function(){
         $(".jackets").show();
-        $(".path h4:nth-child(3) a").text("Женские жакеты оптом в Уфе");
-        $(".header h2").text("КУПИТЬ ЖАКЕТЫ ОПТОМ В УФЕ");
+        $(".path h4:nth-child(3) a").text("Женские жакеты оптом в Новокузнецке");
+        $(".header h2").text("КУПИТЬ ЖАКЕТЫ ОПТОМ В НОВОКУЗНЕЦКЕ");
         $(".costums, .blouse, .skirt, .trousers, .dresses, .cardigans, .cloak, .overalls, .coat, .clothes").hide();
     });
      $(".leftbar li:nth-child(7) a").click(function(){
         $(".overalls").show();
-        $(".path h4:nth-child(3) a").text("Женские комбинезоны оптом в Уфе");
-        $(".header h2").text("КУПИТЬ КОМБИНЕЗОНЫ ОПТОМ В УФЕ");
+        $(".path h4:nth-child(3) a").text("Женские комбинезоны оптом в Новокузнецке");
+        $(".header h2").text("КУПИТЬ КОМБИНЕЗОНЫ ОПТОМ В НОВОКУЗНЕЦКЕ");
         $(".costums, .blouse, .skirt, .trousers, .jackets, .cardigans, .cloak, .dresses, .coat, .clothes").hide();
     });
      $(".leftbar li:nth-child(8) a").click(function(){
         $(".cardigans").show();
-        $(".path h4:nth-child(3) a").text("Женские кардиганы оптом в Уфе");
-        $(".header h2").text("КУПИТЬ КАРДИГАНЫ ОПТОМ В УФЕ");
+        $(".path h4:nth-child(3) a").text("Женские кардиганы оптом в Новокузнецке");
+        $(".header h2").text("КУПИТЬ КАРДИГАНЫ ОПТОМ В НОВОКУЗНЕЦКЕ");
         $(".costums, .blouse, .skirt, .trousers, .jackets, .dresses, .cloak, .overalls, .coat, .clothes").hide();
     });
      $(".leftbar li:nth-child(9) a").click(function(){
         $(".cloak").show();
-        $(".path h4:nth-child(3) a").text("Женские плащи оптом в Уфе");
-        $(".header h2").text("КУПИТЬ ПЛАЩИ ОПТОМ В УФЕ");
+        $(".path h4:nth-child(3) a").text("Женские плащи оптом в Новокузнецке");
+        $(".header h2").text("КУПИТЬ ПЛАЩИ ОПТОМ В НОВОКУЗНЕЦКЕ");
         $(".costums, .dresses, .blouse, .skirt, .trousers, .jackets, .cardigans, .coat, .overalls, .costums, .clothes").hide();
     });
     $(".leftbar li:nth-child(10) a").click(function(){
         $(".coat").show();
-        $(".path h4:nth-child(3) a").text("Женские пальто оптом в Уфе");
-        $(".header h2").text("КУПИТЬ ПАЛЬТО ОПТОМ В УФЕ");
+        $(".path h4:nth-child(3) a").text("Женские пальто оптом в Новокузнецке");
+        $(".header h2").text("КУПИТЬ ПАЛЬТО ОПТОМ В НОВОКУЗНЕЦКЕ");
         $(".dresses, .blouse, .skirt, .trousers, .jackets, .cardigans, .cloak, .overalls, .costums, .costums").hide();
     });
     $("#cth").click(function(){
         $(".clothes").show();
-        $(".header h2").text("КУПИТЬ ОПТОВУЮ ОДЕЖДУ В УФЕ");
-        $(".path h4:nth-child(3) a").text("Женские одежда оптом в Уфе");
+        $(".header h2").text("КУПИТЬ ОПТОВУЮ ОДЕЖДУ В НОВОКУЗНЕЦКЕ");
+        $(".path h4:nth-child(3) a").text("Женские одежда оптом в Новокузнецке");
         $(".coat, .dresses, .blouse, .skirt, .trousers, .jackets, .cardigans, .cloak, .overalls, .costums, .costums").hide();
     });   */
        
