@@ -1,6 +1,6 @@
 User-Agent: *
-Sitemap: http://samara.dhmdopt.ru/sitemap.xml
+Sitemap: http://ufa.dhmdopt.ru/sitemap.xml
 
 User-Agent: Yandex
-Host: samara.dhmdopt.ru
-Sitemap: http://samara.dhmdopt.ru/sitemap.xml
+Host: ufa.dhmdopt.ru
+Sitemap: http://ufa.dhmdopt.ru/sitemap.xml
